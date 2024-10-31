@@ -23,4 +23,4 @@ just put your images into "dataset/test/demo/low" and run the test_LCR.py
 ![image](./__pycache__/Fig7.png)
 
 # Enhanced Images
-Enhanced images for different algorithm are [here](https://pan.baidu.com/s/17UvSI4k_Kq7xaknp2bEdaw?pwd=2vvd)
+Enhanced images for different algorithms are [here](https://pan.baidu.com/s/17UvSI4k_Kq7xaknp2bEdaw?pwd=2vvd)
