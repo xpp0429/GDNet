@@ -10,7 +10,7 @@ GDNet: A low-light image enhancement network based on Ghost-Block and unique ima
  
  scipy = 1.2.0
 
-# Framework:
+## Framework:
 
 ![image](./__pycache__/Fig2.png)
 
@@ -22,5 +22,5 @@ just put your images into "dataset/test/demo/low" and run the test_LCR.py
 
 ![image](./__pycache__/Fig7.png)
 
-# Enhanced Images
+## Enhanced Images
 Enhanced images for different algorithms are [here](https://pan.baidu.com/s/17UvSI4k_Kq7xaknp2bEdaw?pwd=2vvd)
