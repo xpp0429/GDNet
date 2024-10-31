@@ -7,7 +7,7 @@ GDNet: A low-light image enhancement network based on Ghost-Block and unique ima
  numpy = 1.15.4
  scipy = 1.2.0
  
-# for testing
+## for testing
 just put your images into "dataset/test/demo/low" and run the test_LCR.py
 
 # Enhanced Images
